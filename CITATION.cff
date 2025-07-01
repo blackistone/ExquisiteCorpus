@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Exquisite Corpus Tools
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kevin
+    family-names: Blackistone
+    orcid: 'https://orcid.org/0009-0009-2757-1595'
+repository-code: 'https://github.com/blackistone/ExquisiteCorpus'
+abstract: >-
+  Tools to aid in creation of original techinque for blended
+  radiology from multiple subjecta
+license: MIT-Modern-Variant
+date-released: '2025-07-01'
